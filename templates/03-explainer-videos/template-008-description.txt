@@ -1,0 +1,51 @@
+TEMPLATE INFO:
+Name: Product Demo Background #008
+Category: Explainer Videos
+Duration: 8 seconds
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~14-18 MB
+
+DESCRIPTION:
+Clean educational background with soft motion perfect for product demonstrations. Features subtle grid patterns and gentle animations in professional presentation style with dedicated space for product placement. Trustworthy and informative feel ideal for software demos and tutorials.
+
+BEST FOR:
+- Product demos
+- Software tutorials
+- How-to videos
+- Feature explanations
+- Onboarding videos
+- Educational content
+- SaaS demos
+- App walkthroughs
+
+CUSTOMIZATION OPTIONS:
+- Product Area: Large center space for screen recordings
+- Grid Pattern: Adjustable opacity
+- Brand Colors: Professional palette customizable
+- Text Overlays: Multiple placement options
+- Annotations: Easy to add callouts and arrows
+
+USAGE INSTRUCTIONS:
+1. Add product screen recording in center
+2. Include step-by-step annotations
+3. Add voiceover explaining features
+4. Keep background subtle to highlight product
+5. Use for 30-90 second explainer videos
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+explainer, product-demo, tutorial, educational, how-to, software, saas, demo-video, instructional, onboarding, professional, clean, informative
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "Clean educational background with soft motion, perfect for product demonstrations, subtle grid patterns and gentle animations, professional presentation style, space for product placement, trustworthy and informative feel, 8 seconds"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers

@@ -1,0 +1,52 @@
+TEMPLATE INFO:
+Name: Tutorial Animation Background #009
+Category: Explainer Videos
+Duration: 6 seconds (Seamless Loop)
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~12-16 MB
+
+DESCRIPTION:
+Friendly learning environment background with gentle floating elements and soft pastel colors. Subtle motion perfect for educational content with warm and approachable feel. Seamless loop allows for long-form tutorial content without distraction. Creates comfortable learning atmosphere.
+
+BEST FOR:
+- Online courses
+- Educational YouTube videos
+- Training materials
+- Skill-building content
+- Teacher presentations
+- E-learning platforms
+- Workshop recordings
+- Academic content
+
+CUSTOMIZATION OPTIONS:
+- Content Area: Flexible placement for various layouts
+- Color Palette: Soft pastels (adjustable)
+- Element Density: Controllable floating objects
+- Loop Duration: Seamless for any video length
+- Text Safe Zones: Multiple areas for captions
+
+USAGE INSTRUCTIONS:
+1. Overlay your tutorial content
+2. Add subtitles or captions in safe zones
+3. Include instructor video in corner (optional)
+4. Loop for videos of any length
+5. Maintain calm, educational atmosphere
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+Loop: Seamless
+
+TAGS:
+tutorial, educational, e-learning, online-course, training, teaching, learning, friendly, approachable, pastel, calm, instructional, academic
+
+AI GENERATION DETAILS:
+Tool Used: Luma Dream Machine
+Generation Date: [Current Date]
+Original Prompt: "Friendly learning environment background with gentle floating elements, soft pastel colors, subtle motion perfect for educational content, warm and approachable feel, seamless loop for long-form content"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers
