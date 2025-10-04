@@ -1,0 +1,52 @@
+TEMPLATE INFO:
+Name: Headline Bounce In #012
+Category: Typography
+Duration: 4 seconds (Seamless Loop)
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~8-12 MB
+
+DESCRIPTION:
+Dynamic news-style background with subtle broadcast elements and professional journalism aesthetic. Features dedicated space for bold headlines with smooth bounce-in animation style. Credible and authoritative feel perfect for news content, announcements, and professional updates. Seamless loop for continuous display.
+
+BEST FOR:
+- News headlines
+- Breaking announcements
+- Press releases
+- Company updates
+- Industry news
+- Professional blogs
+- Newsletter headers
+- Event announcements
+
+CUSTOMIZATION OPTIONS:
+- Headline Text: Large, bold typography
+- Subtitle Space: Supporting information area
+- Brand Integration: Logo placement options
+- Animation Timing: Bounce-in speed adjustable
+- Professional Colors: News-appropriate palette
+
+USAGE INSTRUCTIONS:
+1. Add headline in bold sans-serif font
+2. Include date/timestamp for news credibility
+3. Add subtitle or supporting details
+4. Use professional, trustworthy colors
+5. Loop for digital signage or websites
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+Loop: Seamless
+
+TAGS:
+typography, headlines, news, announcements, professional, journalism, broadcast, bounce-in, credible, authoritative, updates, press-release
+
+AI GENERATION DETAILS:
+Tool Used: Luma Dream Machine
+Generation Date: [Current Date]
+Original Prompt: "Dynamic news-style background with subtle broadcast elements, professional journalism aesthetic, space for bold headlines, smooth bounce-in animation style, credible and authoritative feel, seamless loop"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers

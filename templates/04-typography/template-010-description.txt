@@ -1,0 +1,52 @@
+TEMPLATE INFO:
+Name: Quote Typewriter Effect #010
+Category: Typography
+Duration: 6 seconds
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~10-14 MB
+
+DESCRIPTION:
+Inspirational background with warm gradient colors and subtle typewriter-style cursor blinking animation. Features elegant serif font space in center with motivational quote aesthetic and smooth text reveal motion. Sophisticated and inspiring design perfect for thought leadership content.
+
+BEST FOR:
+- Motivational quotes
+- Inspirational content
+- Author content
+- Book promotions
+- Thought leadership
+- Personal branding
+- Philosophy content
+- Life coaching
+
+CUSTOMIZATION OPTIONS:
+- Quote Text: Center placement, multiple lines supported
+- Font Style: Serif recommended for elegance
+- Text Color: Dark or light depending on background
+- Gradient Colors: Warm tones customizable
+- Author Attribution: Space for credit below quote
+
+USAGE INSTRUCTIONS:
+1. Add your quote text in center
+2. Use elegant serif font (Playfair, Garamond)
+3. Include author name at bottom
+4. Time text reveal with animation
+5. Share on social media or presentations
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+typography, quotes, inspirational, motivational, text-animation, typewriter, elegant, serif, warm-colors, thought-leadership, wisdom, author-content
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "Inspirational background with warm gradient colors, subtle typewriter-style cursor blinking animation, elegant serif font space in center, motivational quote aesthetic, smooth text reveal motion, sophisticated and inspiring, 6 seconds"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers
+

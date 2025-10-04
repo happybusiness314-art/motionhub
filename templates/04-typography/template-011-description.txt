@@ -1,0 +1,51 @@
+TEMPLATE INFO:
+Name: Call-to-Action Pulse #011
+Category: Typography
+Duration: 3 seconds
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~6-10 MB
+
+DESCRIPTION:
+High-energy background with pulsing rhythm perfect for call-to-action buttons. Features vibrant colors with urgency and dedicated space for bold text in center. Marketing-focused with conversion energy and attention-grabbing motion. Designed to drive immediate action and engagement.
+
+BEST FOR:
+- CTA buttons
+- Limited-time offers
+- Flash sales
+- Urgent announcements
+- Event registrations
+- Lead magnets
+- Conversion funnels
+- Marketing campaigns
+
+CUSTOMIZATION OPTIONS:
+- CTA Text: Bold, action-oriented copy
+- Button Design: Overlay CTA button graphic
+- Pulse Speed: Adjustable intensity
+- Color Energy: High-contrast options
+- Urgency Level: Visual intensity customizable
+
+USAGE INSTRUCTIONS:
+1. Add powerful CTA text (e.g., "Buy Now", "Sign Up")
+2. Use bold sans-serif fonts for readability
+3. Include sense of urgency (limited time, spots, etc.)
+4. Perfect for ad endings and email CTAs
+5. Keep copy short and action-focused
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+cta, call-to-action, marketing, conversion, urgency, high-energy, pulsing, vibrant, bold, action, engagement, sales, advertising
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "High-energy background with pulsing rhythm, perfect for call-to-action buttons, vibrant colors with urgency, space for bold text in center, marketing-focused with conversion energy, attention-grabbing motion, 3 seconds"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers
