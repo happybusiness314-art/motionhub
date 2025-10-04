@@ -1,0 +1,51 @@
+TEMPLATE INFO:
+Name: Facebook Video Ad #004
+Category: Social Media
+Duration: 6 seconds
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~12-16 MB
+
+DESCRIPTION:
+Marketing-focused background animation with call-to-action energy and warm colors with subtle motion. 16:9 landscape format perfect for Facebook ads. Professional yet engaging design with dedicated space for product showcase in center. Optimized for conversion-focused campaigns.
+
+BEST FOR:
+- Facebook ads
+- Video marketing campaigns
+- Product launches
+- E-commerce promotions
+- Lead generation
+- Brand awareness
+- Sales funnels
+- Retargeting ads
+
+CUSTOMIZATION OPTIONS:
+- Text Area: Headline space + CTA button area
+- Brand Colors: Warm, inviting palette (orange, red, yellow)
+- Logo Space: Multiple placement options
+- Animation Style: Attention-grabbing but professional
+- Text Recommendations: Clear value prop + strong CTA
+
+USAGE INSTRUCTIONS:
+1. Add product image or video in center
+2. Place headline at top
+3. Add clear CTA button at bottom
+4. Use action-oriented copy
+5. Test different versions for optimization
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+facebook, video-ad, marketing, advertising, conversion, cta, call-to-action, landscape, product-showcase, e-commerce, paid-ads, lead-generation, warm-colors
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "Marketing-focused background animation with call-to-action energy, warm colors with subtle motion, 16:9 landscape format perfect for Facebook ads, professional yet engaging, space for product showcase in center, 6 seconds duration"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers

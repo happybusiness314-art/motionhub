@@ -1,0 +1,52 @@
+TEMPLATE INFO:
+Name: TikTok Text Overlay #003
+Category: Social Media
+Duration: 3 seconds (Seamless Loop)
+Aspect Ratio: 9:16 (Vertical)
+File Format: MP4, 1080x1920
+File Size: ~6-10 MB
+
+DESCRIPTION:
+Vibrant energetic background with flowing neon colors perfect for Gen Z content. Dynamic motion suitable for short-form video with space for bold text in center. Trendy and eye-catching design that loops seamlessly for extended TikTok videos. High-energy aesthetic ideal for viral content.
+
+BEST FOR:
+- TikTok videos
+- Instagram Reels
+- YouTube Shorts
+- Gen Z marketing
+- Trendy content
+- Viral campaigns
+- Quick tips and hacks
+- Dance challenges
+
+CUSTOMIZATION OPTIONS:
+- Text Area: Bold center placement for maximum impact
+- Brand Colors: Vibrant neon palette (pink, cyan, purple)
+- Logo Space: Bottom corner watermark
+- Animation Style: High-energy, dynamic flow
+- Text Recommendations: Short, punchy text with bold fonts
+
+USAGE INSTRUCTIONS:
+1. Add bold, large text in center
+2. Use trending fonts (Impact, Bebas, etc.)
+3. Keep text short and readable (3-5 words)
+4. Loop for longer videos
+5. Add trending audio for maximum engagement
+
+TECHNICAL SPECS:
+Resolution: 1080x1920 (9:16)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+Loop: Seamless
+
+TAGS:
+tiktok, reels, shorts, gen-z, viral, trendy, energetic, neon, vibrant, short-form, vertical-video, loop, dynamic, youth-marketing, social-media
+
+AI GENERATION DETAILS:
+Tool Used: Luma Dream Machine
+Generation Date: [Current Date]
+Original Prompt: "Vibrant energetic background with flowing neon colors, perfect for Gen Z content, dynamic motion suitable for short-form video, 9:16 vertical format, space for bold text in center, trendy and eye-catching, seamless 3-second loop"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers

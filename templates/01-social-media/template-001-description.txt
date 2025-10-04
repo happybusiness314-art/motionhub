@@ -1,0 +1,49 @@
+TEMPLATE INFO:
+Name: Instagram Story Reveal #001
+Category: Social Media
+Duration: 4 seconds
+Aspect Ratio: 9:16 (Vertical)
+File Format: MP4, 1080x1920
+File Size: ~8-12 MB
+
+DESCRIPTION:
+Modern minimalist gradient background transitioning from purple to blue with smooth text slide-in animation from left side. Features clean white rectangular area in center for text placement with elegant smooth easing motion. Perfect for Instagram Stories, product announcements, and social media marketing.
+
+BEST FOR:
+- Instagram Stories
+- Product announcements
+- Daily quotes
+- Promotional content
+- Brand storytelling
+- Mobile-first content
+
+CUSTOMIZATION OPTIONS:
+- Text Area: Center rectangle (safe zone for 2-3 lines)
+- Brand Colors: Purple/blue gradient (easily replaceable)
+- Logo Space: Not applicable
+- Animation Style: Smooth slide-in from left
+- Text Recommendations: 1-2 sentences, bold sans-serif fonts
+
+USAGE INSTRUCTIONS:
+1. Import video into your editing software
+2. Add text overlay in center safe zone
+3. Adjust gradient colors to match your brand
+4. Export as 1080x1920 for Instagram Stories
+5. Keep text short and readable on mobile
+
+TECHNICAL SPECS:
+Resolution: 1080x1920 (9:16)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+instagram, instagram-story, social-media, text-animation, gradient, modern, minimalist, professional, marketing, mobile-first, vertical-video, purple, blue, slide-in, smooth-animation
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "Modern minimalist gradient background transitioning from purple to blue, smooth text slide-in animation from left side, clean white rectangular area in center for text placement, elegant smooth easing motion, 9:16 vertical format, professional social media style, 3-4 seconds duration"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers

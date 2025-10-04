@@ -1,0 +1,54 @@
+========================================
+TEMPLATE-002-DESCRIPTION.TXT
+========================================
+
+TEMPLATE INFO:
+Name: LinkedIn Post Animation #002
+Category: Social Media
+Duration: 5 seconds
+Aspect Ratio: 1:1 (Square)
+File Format: MP4, 1080x1080
+File Size: ~10-14 MB
+
+DESCRIPTION:
+Professional corporate background featuring subtle geometric patterns with soft blue and white color scheme. Gentle motion graphics perfect for business content with dedicated space for text overlay in center. Clean, professional animation ideal for B2B marketing and corporate communications.
+
+BEST FOR:
+- LinkedIn posts
+- Business announcements
+- Corporate updates
+- Professional networking
+- B2B marketing
+- Company milestones
+- Industry insights
+
+CUSTOMIZATION OPTIONS:
+- Text Area: Large center space for headlines and body text
+- Brand Colors: Blue/white corporate palette
+- Logo Space: Top right or bottom center recommended
+- Animation Style: Subtle, professional movement
+- Text Recommendations: Headlines + supporting text, professional fonts
+
+USAGE INSTRUCTIONS:
+1. Add your company logo in top right corner
+2. Insert headline text in upper center
+3. Add body text or call-to-action below
+4. Maintain professional color scheme
+5. Export as 1080x1080 for LinkedIn
+
+TECHNICAL SPECS:
+Resolution: 1080x1080 (1:1)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+linkedin, corporate, professional, business, b2b, square-format, social-media, geometric, blue, white, clean, marketing, networking, business-content, corporate-communications
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "Professional corporate background with subtle geometric patterns, soft blue and white color scheme, gentle motion graphics suitable for business content, square format for LinkedIn posts, space for text overlay in center, clean professional animation, 5 seconds"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers
