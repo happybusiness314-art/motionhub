@@ -1,141 +1,334 @@
-const templates = [
-    // SOCIAL MEDIA TEMPLATES
-    {
-        id: 1,
-        name: "Instagram Story Reveal",
-        category: "social-media",
-        duration: "4s",
-        aspectRatio: "9:16",
-        description: "Modern gradient background with smooth text slide-in animation. Perfect for Instagram Stories and mobile content.",
-        videoUrl: "templates/01-social-media/template-001.mp4",
-        previewUrl: "templates/01-social-media/template-001-preview.png",
-        tags: ["instagram", "story", "social-media", "gradient", "modern", "vertical"]
-    },
-    {
-        id: 2,
-        name: "LinkedIn Post Animation",
-        category: "social-media", 
-        duration: "5s",
-        aspectRatio: "1:1",
-        description: "Professional corporate background perfect for business content and B2B marketing.",
-        videoUrl: "templates/01-social-media/template-002.mp4",
-        previewUrl: "templates/01-social-media/template-002-preview.png",
-        tags: ["linkedin", "corporate", "professional", "business", "square"]
-    },
-    {
-        id: 3,
-        name: "TikTok Text Overlay",
-        category: "social-media",
-        duration: "3s",
-        aspectRatio: "9:16", 
-        description: "Vibrant energetic background perfect for Gen Z content and viral videos.",
-        videoUrl: "templates/01-social-media/template-003.mp4",
-        previewUrl: "templates/01-social-media/template-003-preview.png",
-        tags: ["tiktok", "energetic", "gen-z", "vibrant", "trendy", "viral"]
-    },
-    {
-        id: 4,
-        name: "Facebook Video Ad",
-        category: "social-media",
-        duration: "6s",
-        aspectRatio: "16:9",
-        description: "Marketing-focused background with call-to-action energy, perfect for Facebook ads.",
-        videoUrl: "templates/01-social-media/template-004.mp4",
-        previewUrl: "templates/01-social-media/template-004-preview.png",
-        tags: ["facebook", "video-ad", "marketing", "cta", "landscape"]
-    },
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Templates - MotionMaster</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .gradient-text {
+            background: linear-gradient(45deg, #8b5cf6, #06b6d4, #10b981);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white min-h-screen">
+    
+    <!-- Navigation -->
+    <nav class="bg-slate-900/80 backdrop-blur-md border-b border-purple-500/20 p-4">
+        <div class="max-w-7xl mx-auto flex items-center justify-between">
+            <div class="flex items-center space-x-2">
+                <div class="w-8 h-8 bg-gradient-to-br from-purple-600 to-blue-600 rounded-lg"></div>
+                <span class="text-xl font-bold gradient-text">MotionMaster</span>
+            </div>
+            <a href="index.html" class="bg-purple-600 hover:bg-purple-700 px-6 py-2 rounded-lg transition-colors">
+                ← Back to Home
+            </a>
+        </div>
+    </nav>
 
-    // LOGO REVEALS
-    {
-        id: 5,
-        name: "Minimalist Logo Fade",
-        category: "logo-reveals",
-        duration: "4s", 
-        aspectRatio: "16:9",
-        description: "Ultra-clean fade-in effect with sophisticated corporate styling.",
-        videoUrl: "templates/02-logo/template-005.mp4", 
-        previewUrl: "templates/02-logo/template-005-preview.png",
-        tags: ["logo", "minimal", "corporate", "fade", "clean", "elegant"]
-    },
-    {
-        id: 6,
-        name: "Particle Logo Build", 
-        category: "logo-reveals",
-        duration: "5s",
-        aspectRatio: "16:9",
-        description: "Cinematic particle effects converging to reveal your logo.",
-        videoUrl: "templates/02-logo/template-006.mp4",
-        previewUrl: "templates/02-logo/template-006-preview.png", 
-        tags: ["logo", "particles", "cinematic", "dramatic", "premium"]
-    },
-    {
-        id: 7,
-        name: "Geometric Logo Reveal",
-        category: "logo-reveals",
-        duration: "4s",
-        aspectRatio: "16:9",
-        description: "Abstract geometric shapes perfect for tech and startup brands.",
-        videoUrl: "templates/02-logo/template-007.mp4",
-        previewUrl: "templates/02-logo/template-007-preview.jpg",
-        tags: ["logo", "geometric", "tech", "modern", "startup"]
-    },
+    <div class="max-w-7xl mx-auto p-6">
+        <div class="text-center mb-12 mt-8">
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">Template Gallery</h1>
+            <p class="text-purple-300 text-lg">AI-generated motion graphics templates ready to use</p>
+        </div>
 
-    // EXPLAINER VIDEOS
-    {
-        id: 8,
-        name: "Product Demo Background",
-        category: "explainer-videos",
-        duration: "8s",
-        aspectRatio: "16:9",
-        description: "Clean educational background perfect for product demonstrations and tutorials.",
-        videoUrl: "templates/03-explainer-videos/template-008.mp4",
-        previewUrl: "templates/03-explainer-videos/template-008-preview.jpg",
-        tags: ["explainer", "demo", "tutorial", "educational", "product"]
-    },
-    {
-        id: 9,
-        name: "Tutorial Animation Background",
-        category: "explainer-videos",
-        duration: "6s",
-        aspectRatio: "16:9",
-        description: "Friendly learning environment with seamless loop for educational content.",
-        videoUrl: "templates/03-explainer-videos/template-009.mp4",
-        previewUrl: "templates/03-explainer-videos/template-009-preview.jpg",
-        tags: ["tutorial", "educational", "learning", "friendly", "loop"]
-    },
+        <!-- Filter Tabs -->
+        <div class="flex flex-wrap justify-center gap-4 mb-12">
+            <button onclick="filterTemplates('all')" class="filter-btn bg-purple-600 text-white px-6 py-3 rounded-lg font-semibold transition-all hover:scale-105">
+                All Templates
+            </button>
+            <button onclick="filterTemplates('social-media')" class="filter-btn bg-slate-800 text-purple-300 px-6 py-3 rounded-lg font-semibold hover:bg-slate-700 transition-all">
+                Social Media
+            </button>
+            <button onclick="filterTemplates('logo-reveals')" class="filter-btn bg-slate-800 text-purple-300 px-6 py-3 rounded-lg font-semibold hover:bg-slate-700 transition-all">
+                Logo Reveals
+            </button>
+            <button onclick="filterTemplates('explainer-videos')" class="filter-btn bg-slate-800 text-purple-300 px-6 py-3 rounded-lg font-semibold hover:bg-slate-700 transition-all">
+                Explainer Videos
+            </button>
+            <button onclick="filterTemplates('typography')" class="filter-btn bg-slate-800 text-purple-300 px-6 py-3 rounded-lg font-semibold hover:bg-slate-700 transition-all">
+                Typography
+            </button>
+        </div>
 
-    // TYPOGRAPHY
-    {
-        id: 10,
-        name: "Quote Typewriter Effect",
-        category: "typography",
-        duration: "6s",
-        aspectRatio: "16:9", 
-        description: "Inspirational background perfect for motivational quotes and thought leadership.",
-        videoUrl: "templates/04-typography/template-010.mp4",
-        previewUrl: "templates/04-typography/template-010-preview.jpg",
-        tags: ["typography", "quotes", "inspirational", "elegant", "serif"]
-    },
-    {
-        id: 11,
-        name: "Call-to-Action Pulse",
-        category: "typography",
-        duration: "3s",
-        aspectRatio: "16:9",
-        description: "High-energy background perfect for CTA buttons and conversion-focused content.",
-        videoUrl: "templates/04-typography/template-011.mp4",
-        previewUrl: "templates/04-typography/template-011-preview.png",
-        tags: ["cta", "marketing", "conversion", "high-energy", "bold"]
-    },
-    {
-        id: 12,
-        name: "Headline Bounce In",
-        category: "typography",
-        duration: "4s",
-        aspectRatio: "16:9",
-        description: "Professional news-style background for headlines and announcements.",
-        videoUrl: "templates/04-typography/template-012.mp4",
-        previewUrl: "templates/04-typography/template-012-preview.jpg",
-        tags: ["headlines", "news", "professional", "announcements", "credible"]
-    }
-];
+        <!-- Template Grid -->
+        <div id="templateGrid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Template cards will be inserted here by JavaScript -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="mt-20 py-8 border-t border-purple-500/20">
+        <div class="max-w-7xl mx-auto text-center text-purple-400">
+            <p>© 2025 MotionMaster. AI-Powered Motion Graphics Templates.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Template data
+        const templates = [
+            // SOCIAL MEDIA
+            {
+                id: 1,
+                name: "Instagram Story Reveal",
+                category: "social-media",
+                duration: "4s",
+                aspectRatio: "9:16",
+                description: "Modern gradient background with smooth text slide-in animation",
+                videoUrl: "templates/social-media/template-001.mp4",
+                previewUrl: "templates/social-media/template-001-preview.jpg",
+                tags: ["instagram", "story", "gradient", "modern"]
+            },
+            {
+                id: 2,
+                name: "LinkedIn Post Animation",
+                category: "social-media", 
+                duration: "5s",
+                aspectRatio: "1:1",
+                description: "Professional corporate background for business content",
+                videoUrl: "templates/social-media/template-002.mp4",
+                previewUrl: "templates/social-media/template-002-preview.jpg",
+                tags: ["linkedin", "corporate", "professional"]
+            },
+            {
+                id: 3,
+                name: "TikTok Text Overlay",
+                category: "social-media",
+                duration: "3s",
+                aspectRatio: "9:16", 
+                description: "Vibrant energetic background for Gen Z content",
+                videoUrl: "templates/social-media/template-003.mp4",
+                previewUrl: "templates/social-media/template-003-preview.jpg",
+                tags: ["tiktok", "energetic", "viral"]
+            },
+            {
+                id: 4,
+                name: "Facebook Video Ad",
+                category: "social-media",
+                duration: "6s",
+                aspectRatio: "16:9",
+                description: "Marketing background with CTA energy",
+                videoUrl: "templates/social-media/template-004.mp4",
+                previewUrl: "templates/social-media/template-004-preview.jpg",
+                tags: ["facebook", "ad", "marketing"]
+            },
+            // LOGO REVEALS
+            {
+                id: 5,
+                name: "Minimalist Logo Fade",
+                category: "logo-reveals",
+                duration: "4s", 
+                aspectRatio: "16:9",
+                description: "Ultra-clean fade-in with sophisticated styling",
+                videoUrl: "templates/logo-reveals/template-005.mp4", 
+                previewUrl: "templates/logo-reveals/template-005-preview.jpg",
+                tags: ["logo", "minimal", "elegant"]
+            },
+            {
+                id: 6,
+                name: "Particle Logo Build", 
+                category: "logo-reveals",
+                duration: "5s",
+                aspectRatio: "16:9",
+                description: "Cinematic particle effects reveal",
+                videoUrl: "templates/logo-reveals/template-006.mp4",
+                previewUrl: "templates/logo-reveals/template-006-preview.jpg", 
+                tags: ["logo", "particles", "cinematic"]
+            },
+            {
+                id: 7,
+                name: "Geometric Logo Reveal",
+                category: "logo-reveals",
+                duration: "4s",
+                aspectRatio: "16:9",
+                description: "Abstract geometric shapes for tech brands",
+                videoUrl: "templates/logo-reveals/template-007.mp4",
+                previewUrl: "templates/logo-reveals/template-007-preview.jpg",
+                tags: ["logo", "geometric", "tech"]
+            },
+            // EXPLAINER VIDEOS
+            {
+                id: 8,
+                name: "Product Demo Background",
+                category: "explainer-videos",
+                duration: "8s",
+                aspectRatio: "16:9",
+                description: "Clean educational background for demos",
+                videoUrl: "templates/explainer-videos/template-008.mp4",
+                previewUrl: "templates/explainer-videos/template-008-preview.jpg",
+                tags: ["demo", "tutorial", "educational"]
+            },
+            {
+                id: 9,
+                name: "Tutorial Animation",
+                category: "explainer-videos",
+                duration: "6s",
+                aspectRatio: "16:9",
+                description: "Friendly learning environment background",
+                videoUrl: "templates/explainer-videos/template-009.mp4",
+                previewUrl: "templates/explainer-videos/template-009-preview.jpg",
+                tags: ["tutorial", "learning", "friendly"]
+            },
+            // TYPOGRAPHY
+            {
+                id: 10,
+                name: "Quote Typewriter Effect",
+                category: "typography",
+                duration: "6s",
+                aspectRatio: "16:9", 
+                description: "Inspirational background for quotes",
+                videoUrl: "templates/typography/template-010.mp4",
+                previewUrl: "templates/typography/template-010-preview.jpg",
+                tags: ["quotes", "inspirational", "elegant"]
+            },
+            {
+                id: 11,
+                name: "Call-to-Action Pulse",
+                category: "typography",
+                duration: "3s",
+                aspectRatio: "16:9",
+                description: "High-energy CTA background",
+                videoUrl: "templates/typography/template-011.mp4",
+                previewUrl: "templates/typography/template-011-preview.jpg",
+                tags: ["cta", "marketing", "high-energy"]
+            },
+            {
+                id: 12,
+                name: "Headline Bounce In",
+                category: "typography",
+                duration: "4s",
+                aspectRatio: "16:9",
+                description: "Professional news-style background",
+                videoUrl: "templates/typography/template-012.mp4",
+                previewUrl: "templates/typography/template-012-preview.jpg",
+                tags: ["headlines", "news", "professional"]
+            }
+        ];
+
+        let currentFilter = 'all';
+
+        function filterTemplates(category) {
+            currentFilter = category;
+            const filteredTemplates = category === 'all' 
+                ? templates 
+                : templates.filter(t => t.category === category);
+            
+            // Update active button
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('bg-purple-600', 'text-white');
+                btn.classList.add('bg-slate-800', 'text-purple-300');
+            });
+            event.target.classList.remove('bg-slate-800', 'text-purple-300');
+            event.target.classList.add('bg-purple-600', 'text-white');
+            
+            renderTemplates(filteredTemplates);
+        }
+
+        function renderTemplates(templateList) {
+            const grid = document.getElementById('templateGrid');
+            
+            if (templateList.length === 0) {
+                grid.innerHTML = '<p class="text-purple-300 text-center col-span-3">No templates found in this category.</p>';
+                return;
+            }
+            
+            grid.innerHTML = templateList.map(template => `
+                <div class="bg-slate-800/50 rounded-2xl overflow-hidden border border-purple-500/20 hover:border-purple-500/40 transition-all hover:scale-105">
+                    <!-- Preview Image -->
+                    <div class="relative group cursor-pointer" onclick="playPreview(${template.id})">
+                        <div class="w-full h-48 bg-slate-700 flex items-center justify-center">
+                            <div class="text-center">
+                                <div class="text-6xl mb-2">🎬</div>
+                                <p class="text-purple-300 text-sm">Click to Preview</p>
+                            </div>
+                        </div>
+                        <div class="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                            <div class="bg-purple-600 hover:bg-purple-700 px-6 py-3 rounded-lg font-semibold">
+                                ▶ Play Preview
+                            </div>
+                        </div>
+                        <div class="absolute top-3 right-3 bg-purple-600/90 text-white px-3 py-1 rounded-full text-xs font-semibold">
+                            ${template.category.replace('-', ' ').toUpperCase()}
+                        </div>
+                    </div>
+                    
+                    <!-- Template Info -->
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold mb-2">${template.name}</h3>
+                        <p class="text-purple-300 text-sm mb-4">${template.description}</p>
+                        
+                        <div class="flex justify-between text-sm text-purple-400 mb-4">
+                            <span>📐 ${template.aspectRatio}</span>
+                            <span>⏱️ ${template.duration}</span>
+                        </div>
+                        
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            ${template.tags.slice(0, 3).map(tag => `
+                                <span class="bg-purple-900/30 text-purple-300 px-2 py-1 rounded text-xs">${tag}</span>
+                            `).join('')}
+                        </div>
+                        
+                        <div class="flex space-x-2">
+                            <button onclick="showComingSoon()" class="flex-1 bg-purple-600 hover:bg-purple-700 py-2 rounded-lg font-semibold transition-colors">
+                                📥 Download
+                            </button>
+                            <button onclick="showComingSoon()" class="flex-1 bg-slate-700 hover:bg-slate-600 py-2 rounded-lg font-semibold transition-colors">
+                                🎨 Customize
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function playPreview(templateId) {
+            const template = templates.find(t => t.id === templateId);
+            const modal = document.createElement('div');
+            modal.className = 'fixed inset-0 bg-black/90 flex items-center justify-center z-50 p-4';
+            modal.onclick = function(e) {
+                if (e.target === modal) modal.remove();
+            };
+            
+            modal.innerHTML = `
+                <div class="bg-slate-800 rounded-2xl p-6 max-w-3xl w-full">
+                    <div class="flex justify-between items-center mb-4">
+                        <h3 class="text-2xl font-bold">${template.name}</h3>
+                        <button onclick="this.closest('.fixed').remove()" class="text-purple-400 hover:text-white text-2xl">✕</button>
+                    </div>
+                    <div class="bg-slate-900 rounded-lg p-4 text-center">
+                        <p class="text-purple-300 mb-4">Video preview will be available here</p>
+                        <p class="text-sm text-purple-400">Upload your generated videos to see them here!</p>
+                        <div class="mt-4">
+                            <p class="text-white font-semibold">${template.description}</p>
+                            <div class="flex justify-center gap-4 mt-4 text-purple-300">
+                                <span>📐 ${template.aspectRatio}</span>
+                                <span>⏱️ ${template.duration}</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4 flex gap-2">
+                        <button onclick="showComingSoon()" class="flex-1 bg-purple-600 hover:bg-purple-700 py-3 rounded-lg font-bold">
+                            Download Template
+                        </button>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+        }
+
+        function showComingSoon() {
+            alert('🚀 Coming Soon! Join the waitlist to get notified when we launch.\n\nGo to the homepage to sign up for early access!');
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            renderTemplates(templates);
+        });
+    </script>
+
+</body>
+</html>
