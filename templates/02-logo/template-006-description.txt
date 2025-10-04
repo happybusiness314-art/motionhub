@@ -1,0 +1,51 @@
+TEMPLATE INFO:
+Name: Particle Logo Build #006
+Category: Logo Reveals
+Duration: 5 seconds
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~15-20 MB
+
+DESCRIPTION:
+Cinematic particle system with glowing purple and blue particles converging toward center point with dramatic lighting. Particles swirl and form circular pattern with empty center space for logo reveal. High-end production quality perfect for premium brand introductions and dramatic unveilings.
+
+BEST FOR:
+- Premium brand reveals
+- Product launches
+- Cinematic intros
+- High-budget productions
+- Tech company branding
+- App launches
+- Gaming intros
+- Luxury brands
+
+CUSTOMIZATION OPTIONS:
+- Logo Area: Center focal point
+- Particle Colors: Purple/blue (customizable to brand)
+- Animation Speed: Adjustable timing
+- Particle Density: Can be increased/decreased
+- Logo Timing: Appears at 3-second mark
+
+USAGE INSTRUCTIONS:
+1. Your logo should appear at center at 3 seconds
+2. Use white or light-colored logo for visibility
+3. Add logo with slight delay for dramatic effect
+4. Consider adding sound effects for impact
+5. Works best with geometric/modern logos
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+logo-reveal, cinematic, particles, dramatic, premium, high-end, purple, blue, tech, modern, luxury, product-launch, visual-effects, particle-system
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "Cinematic particle system with glowing purple and blue particles converging toward center point, dramatic lighting, particles swirl and form circular pattern, empty center space for logo reveal, high-end production quality, 5 seconds"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers

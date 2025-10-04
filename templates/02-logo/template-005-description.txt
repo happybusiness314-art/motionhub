@@ -1,0 +1,51 @@
+TEMPLATE INFO:
+Name: Minimalist Logo Fade #005
+Category: Logo Reveals
+Duration: 4 seconds
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~8-12 MB
+
+DESCRIPTION:
+Ultra-minimal clean background with subtle gradient and elegant fade-in effect with soft glow. Features perfect circle area in center for logo placement with sophisticated corporate animation and smooth transitions. Dark to light reveal creates professional, high-end brand introduction.
+
+BEST FOR:
+- Brand intros
+- Video outros
+- Corporate presentations
+- Website headers
+- Email signatures
+- Professional videos
+- Company profiles
+- Pitch decks
+
+CUSTOMIZATION OPTIONS:
+- Logo Area: Center circle (recommended 400x400px)
+- Brand Colors: Customizable gradient background
+- Animation Timing: 4 seconds (adjustable)
+- Glow Effect: Intensity adjustable
+- Text Recommendations: Optional company name below logo
+
+USAGE INSTRUCTIONS:
+1. Place your logo in center circle area
+2. Ensure logo has transparent background (PNG)
+3. Adjust background gradient to brand colors
+4. Fine-tune glow intensity if needed
+5. Add company name subtitle (optional)
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+
+TAGS:
+logo-reveal, minimalist, corporate, brand, professional, fade-in, elegant, clean, sophisticated, intro, outro, business, minimal-design, high-end
+
+AI GENERATION DETAILS:
+Tool Used: RunwayML
+Generation Date: [Current Date]
+Original Prompt: "Ultra-minimal clean background with subtle gradient, elegant fade-in effect with soft glow, perfect circle area in center for logo placement, sophisticated corporate animation, smooth transitions, dark to light reveal, 4 seconds"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers

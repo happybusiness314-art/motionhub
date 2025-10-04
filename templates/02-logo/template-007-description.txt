@@ -1,0 +1,52 @@
+TEMPLATE INFO:
+Name: Geometric Logo Reveal #007
+Category: Logo Reveals
+Duration: 4 seconds (Seamless Loop)
+Aspect Ratio: 16:9 (Landscape)
+File Format: MP4, 1920x1080
+File Size: ~10-14 MB
+
+DESCRIPTION:
+Abstract geometric shapes assembling in perfect symmetry with modern minimalist design and clean lines. Shapes dissolve and reform around center focal point, suitable for tech/startup logos with smooth mathematical precision. Contemporary aesthetic perfect for innovative brands.
+
+BEST FOR:
+- Tech startups
+- SaaS companies
+- App launches
+- Modern brands
+- Innovation showcases
+- Digital products
+- Web3/Crypto projects
+- AI companies
+
+CUSTOMIZATION OPTIONS:
+- Logo Area: Center geometric focal point
+- Shape Colors: Customizable to brand palette
+- Animation Pattern: Mathematical precision maintained
+- Loop Option: Seamless for continuous play
+- Background: Adjustable from light to dark
+
+USAGE INSTRUCTIONS:
+1. Place geometric or modern logo in center
+2. Align logo with geometric pattern timing
+3. Works best with clean, simple logos
+4. Can loop for website backgrounds
+5. Adjust colors to match brand identity
+
+TECHNICAL SPECS:
+Resolution: 1920x1080 (16:9)
+Frame Rate: 30 fps
+Codec: H.264
+Color Profile: sRGB
+Loop: Seamless
+
+TAGS:
+logo-reveal, geometric, tech, modern, minimalist, startup, abstract, mathematical, clean, innovation, web3, saas, digital, contemporary
+
+AI GENERATION DETAILS:
+Tool Used: Luma Dream Machine
+Generation Date: [Current Date]
+Original Prompt: "Abstract geometric shapes assembling in perfect symmetry, modern minimalist design with clean lines, shapes dissolve and reform around center focal point, suitable for tech/startup logos, smooth mathematical precision, 4-second loop"
+
+LICENSING:
+Commercial use allowed for MotionMaster subscribers
